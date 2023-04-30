@@ -1,0 +1,6 @@
+siwe-backend/node_modules/
+siwe-backend/dist/
+siwe-backend/package-lock.json
+siwe-frontend/node_modules/
+siwe-frontend/.next/
+siwe-frontend/package-lock.json

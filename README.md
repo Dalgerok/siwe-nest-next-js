@@ -1,0 +1,1 @@
+Firslty run `npm i` in both directories. Then run backend with `npm run build && npm run start` (running on port 3001) and frontend with `npm run build && npm run start` (port 3000).
